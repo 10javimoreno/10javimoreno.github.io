@@ -1,0 +1,36 @@
+body {
+    background-image: url(/home/bto2g1/Escritorio/bg.png);
+}
+div {
+   width: 400px;
+   height: 160px;
+   margin-top: 180px;
+   border-top: 4px solid #017bab;
+   padding: 20px 30 px ;
+   background-color: #4e4d4d;
+   margin-left: auto;
+   margin-right: auto;
+}
+h1 {
+    height: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid white;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+    height: 40px;
+    font-size: 14px;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+a {
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
