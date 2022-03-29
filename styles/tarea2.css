@@ -1,1 +1,16 @@
-body
+body {
+    background-image: url("https://raw.githubusercontent.com/10javimoreno/10javimoreno.github.io/main/images/bg.png");
+}
+
+h1 {
+    border-top: 2px solid #017bab;
+    text-align: auto;
+    padding: 20px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #4e4d4d;
+}
+
+table {
+    background-image: url("https://raw.githubusercontent.com/10javimoreno/10javimoreno.github.io/main/images/code.jpg");
+}
