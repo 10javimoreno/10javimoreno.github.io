@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://raw.githubusercontent.com/10javimoreno/10javimoreno.github.io/main/images/bg.png");
+}
+
+h1 {
+    border-top: 5px solid #017bab;
+    text-align: center;
+    padding: 20px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #4e4d4d;
+    color: white;
+    font-family: sans-serif;
+}
+
+table {
+    background-image: url("https://raw.githubusercontent.com/10javimoreno/10javimoreno.github.io/main/images/code.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    background-color: #4e4d4d;
+    border-top: 5px solid #017bab;
+}
+
+td {
+    border-top: 2px solid #017bab;
+    border-right: 2px solid #017bab;
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
