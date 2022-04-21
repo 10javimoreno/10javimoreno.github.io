@@ -18,7 +18,10 @@ table {
     margin-left: auto;
     margin-right: auto;
     border-top: 5px solid #017bab;
-    padding: 20px 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
     background-color: #4e4d4d;
 }
 
