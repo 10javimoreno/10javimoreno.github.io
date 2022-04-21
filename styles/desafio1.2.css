@@ -18,14 +18,14 @@ table {
     margin-left: auto;
     margin-right: auto;
     border-top: 5px solid #017bab;
+    padding: 20px 30px;
+    background-color: #4e4d4d;
 }
 
 td {
     border-top: 2px solid #017bab;
     border-right: 2px solid #017bab;
     text-align: center;
-    padding: 20px 30px;
-    background-color: #4e4d4d;
 }
 
 a {
