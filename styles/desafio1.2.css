@@ -24,6 +24,8 @@ td {
     border-top: 2px solid #017bab;
     border-right: 2px solid #017bab;
     text-align: center;
+    padding: 20px 30px;
+    background-color: #4e4d4d;
 }
 
 a {
@@ -32,6 +34,4 @@ a {
     font-family: sans-serif;
     text-align: center;
     text-decoration: none;
-    padding: 20px 30px;
-    background-color: #4e4d4d;
 }
